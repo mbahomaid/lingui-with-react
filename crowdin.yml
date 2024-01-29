@@ -1,0 +1,4 @@
+files:
+  - source: /src/locales/en.po
+    translation: /%original_path%/%two_letters_code%.po
+    multilingual: 1
